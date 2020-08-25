@@ -1,3 +1,19 @@
+# Project Notes
+
+## Components to build:
+- Header: contains the title text and subtitle text, correctly formatted and spaced.
+- BetMoney: contains the pot size and reset button
+- PlayerControls: bet, add, win pot
+- PlayerCard: contains PlayerControls and players info(money, name)
+
+## State information to keep track of:
+potSize:Number
+player1money: Number
+player2money: Number
+player1Name:String
+player2Name:String
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
