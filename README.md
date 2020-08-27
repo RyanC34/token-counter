@@ -3,8 +3,8 @@
 ## Components to build:
 - Header: contains the title text and subtitle text, correctly formatted and spaced.
 - BetMoney: contains the pot size and reset button
-- PlayerControls: bet, add, win pot
 - PlayerCard: contains PlayerControls and players info(money, name)
+- PlayerControls: bet, add, win pot
 
 ## State information to keep track of:
 potSize:Number
